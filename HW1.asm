@@ -109,18 +109,3 @@ functionExit:
 	move $v0, $a0
 	jr $ra
 	
-
-	  
-
-
-	
-
-	
-	
-	
-	
-	
-		
-	
-		
-	
